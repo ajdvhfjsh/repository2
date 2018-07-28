@@ -1,0 +1,54 @@
+{"details":{
+  "image":"imagepng.png",
+  "name":"Ramya",
+  "phoneno":"+91-7454845362",
+  "email":"ramyasrithogati1998@gmail.com",
+  "Address":"MIC college, kanchikacherla, AP,521180."
+},
+"career":{
+  "info":"to pursue a challenging career"
+},
+"education":[
+  {
+  "qualification":"b.tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"89%"
+  },
+  {
+"qualification":"intermediate",
+"institute":"chaitanya",
+"year":"2014-2016",
+"percentage":"95%"
+},
+{
+  "qualification":"ssc",
+  "institute":"zphs",
+  "year":"2014",
+  "percentage":"93%"
+
+}
+],
+"skills":[{
+  "title":"programming langs",
+  "info":["c,c++,java"]
+},
+{
+"title":"data bases",
+"info":["oracle,sql,mysql"]
+},
+{
+"title":"operating systems",
+"info":["windows,linux,ubuntu,dos"]
+}
+],
+"achivement":[{
+  "title":"workshops",
+  "info":["hackthon,iot"]
+},
+{
+"title":"group discussions",
+"info":["in mic,amrith sai"]
+}
+]
+}

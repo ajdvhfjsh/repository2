@@ -1,0 +1,31 @@
+.parent{
+  border: 2px solid red;
+  display:flex;
+  flex-direction: row;
+}
+.child1{
+  border: 2px solid green;
+  padding: 2%;
+  margin: 2%;
+  text-align: centre;
+  width:30%;
+}
+.child2{
+  border: 2px solid blue;
+  padding:2%;
+  margin:2%;
+  text-align: centre;
+  width:70%;
+}
+a{
+  word-wrap: break-word;
+}
+.child1 img{
+  width:60%;
+  border: 1px solid red;
+  display: block;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 5px 8px 9px black;
+}
